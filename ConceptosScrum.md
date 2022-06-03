@@ -1,10 +1,13 @@
-# TP_aula10
-
-- La tarea es extraer del material de
-  Scrum los siguientes conceptos:
+<p align="center">
+  <img src="https://i.postimg.cc/KYMxxVpL/scrum.png" alt="Scrum logo">
+</p>
+<h1 align="center">Metodologias agiles</h1>
+<br>
 
 # CEREMONIAS
-
+Las ceremonias de Scrum (a veces también llamadas “eventos Scrum”) son, por así decirlo, 
+reuniones que tienen lugar en las iteraciones o Sprints contemplados dentro de la metodología Scrum, 
+y son una parte importante del progreso de cualquier proyecto.
 
 # ARTEFACTOS
 
