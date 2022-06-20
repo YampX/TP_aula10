@@ -4,7 +4,7 @@
 <h1 align="center">Metodologias agiles</h1>
 <br>
 
-# CEREMONIAS
+# <h2>CEREMONIAS</h2>
 Las ceremonias de Scrum (a veces también llamadas “eventos Scrum”) son, por así decirlo, 
 reuniones que tienen lugar en las iteraciones o Sprints contemplados dentro de la metodología Scrum, 
 y son una parte importante del progreso de cualquier proyecto.
